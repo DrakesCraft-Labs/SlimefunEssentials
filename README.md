@@ -1,8 +1,18 @@
 <p align="center">
-  <img src="docs/banner.svg" width="100%" alt="SLIMEFUNESSENTIALS Animated Banner" />
+  <img src="https://raw.githubusercontent.com/DrakesCraft-Labs/SlimefunEssentials/1.20.4/banner.svg" width="100%" alt="SLIMEFUNESSENTIALS Animated Banner" />
 </p>
 
 # SlimefunEssentials
+
+> ### 🏰 ¡Únete a la Comunidad Oficial de DrakesCraft!
+> 
+> * 🎮 **IP del Servidor**: `play.drakescraft.net` *(Java 1.21.11 & Bedrock)*
+> * 💬 **Discord Oficial**: [discord.gg/drakescraft](https://discord.gg/rR7FbfCt9Y)
+> * 🌐 **Web & Guía**: [drakescraft.net](https://drakescraft.net) — 🛒 **Tienda**: [tienda.drakescraft.net](https://tienda.drakescraft.net)
+> 
+> *¡Juega con este addon y más de 80 expansiones optimizadas en vivo en nuestra network de supervivencia técnica!*
+
+---
 
 Módulo y puente de integración para **Slimefun 4** que habilita soporte nativo de visualización de recetas en mods de cliente como **JEI (Just Enough Items), REI (Roughly Enough Items) y EMI**, además de tooltips informativos con **Jade/WTHIT** y texturas dinámicas de bloques de Slimefun. Portado y mantenido por **DrakesCraft Labs** para Paper/Purpur 1.21.11 en Java 21.
 
